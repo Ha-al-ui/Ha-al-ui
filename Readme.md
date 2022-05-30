@@ -25,13 +25,13 @@ twitter : Hamza97Esc <br>
 
 
 
-<a href="https://github.com/hamzasolicode">
+<a href="https://github.com/Hamzadevlopper">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzadevlopper&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br> <br>
 
 
-<a href="https://github.com/hamzasolicode">
+<a href="https://github.com/Hamzadevlopper">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Hamzadevlopper&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
 <br> <br> <br>
