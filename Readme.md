@@ -1,5 +1,15 @@
 
   Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+ coding as always because its awesome here's about me :
+
+🔭 I’m currently working on a redfile project 🌱 I’m currently learning c# , java ,ruby
+
+💬 Ask me moore 📫 How to reach me:
+
+instagram : @hamzaalaoui
+facebook : hamza alaoui
+twitter : Hamza97Esc
   
 
 
