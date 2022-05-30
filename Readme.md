@@ -21,12 +21,12 @@ twitter : Hamza97Esc <br>
 
 <br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddahbihossine&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddahbihossine&theme=dark&background=00000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Hamza97Esc)
 <br> <br> <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -51,8 +51,7 @@ twitter : Hamza97Esc <br>
 </div>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddahbihossine&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddahbihossine&theme=dark&background=00000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
  
