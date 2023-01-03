@@ -2,7 +2,7 @@
   <h1 align="center">Hello, folks! 👋</h1>
   
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=790b7611758ce10483308afacdef9aeb7ceb5f1dcb445392&rid=giphy.gif&ct=s" width="100"/>
    </div>
  <div align="center">
  coding as always because its awesome here's about me :
