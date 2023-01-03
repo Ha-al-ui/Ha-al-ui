@@ -21,7 +21,7 @@ twitter : Hamza97Esc <br>
 <div align="center">
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddahbihossine&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddahbihossine&theme=dark&background=000000)](https://git.io/streak-stats)<br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddahbihossine&theme=dark&background=00000)](https://github.com/anuraghazra/github-readme-stats)
 
 
