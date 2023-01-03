@@ -4,7 +4,7 @@
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    </div>
- 
+ <div align="center">
  coding as always because its awesome here's about me :
 
 🔭 I’m currently working on a redfile project 🌱 I’m currently learning c# , java ,ruby
@@ -15,7 +15,7 @@ instagram : @hamzaalaoui <br>
 facebook : hamza alaoui <br>
 twitter : Hamza97Esc <br>
   
-
+</div>
 
 
 <div align="center">
