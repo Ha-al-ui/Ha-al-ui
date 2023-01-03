@@ -29,7 +29,7 @@ twitter : Hamza97Esc <br>
 
 <br> <br> <br>
 <div align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=311381761734186207" height="438" width="450" frameborder="0" scrolling="no" >
+  <img src="file:///Users/halaoui/Downloads/UI%20Developer.gif" height="438" width="450" frameborder="0" scrolling="no" >
   <br> <br>
 </div>
 <div>
