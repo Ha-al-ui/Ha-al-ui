@@ -8,12 +8,6 @@
  coding as always because its awesome here's about me :
 
 🔭 I’m currently working on a redfile project 🌱 I’m currently learning c# , java ,ruby
-
-💬 Ask me moore 📫 How to reach me:
-
-instagram : @hamzaalaoui <br>
-facebook : hamza alaoui <br>
-twitter : Hamza97Esc <br>
   
 </div>
 
@@ -53,6 +47,7 @@ twitter : Hamza97Esc <br>
 
 
  <div align="center">
+  💬 Ask me moore 📫 How to reach me:
 <br>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Hamza97Esc)
