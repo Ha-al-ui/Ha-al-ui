@@ -29,7 +29,7 @@ twitter : Hamza97Esc <br>
 
 <br> <br> <br>
 <div align="center">
-  <img src="[[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.imgur.com/O3Bxs16.gif](https://i.imgur.com/O3Bxs16.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Ft%2Flofi%2FgsFXKj3&psig=AOvVaw26vZNlpLk_AOfNnv4gQput&ust=1672802064099000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi4kLi3qvwCFQAAAAAdAAAAABAb)" width="600" height="300"/>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=311381761734186207" width="600" height="300"/>
   <br> <br>
 </div>
 <div>
