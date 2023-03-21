@@ -7,7 +7,7 @@
  <div align="center">
  coding as always because its awesome here's about me :
 
-🔭 I’m currently working on a redfile project 🌱 I’m currently learning c , shell ,php
+🔭 I’m currently learning c , shell ,php, c++
   
 </div>
 <div align="center">
